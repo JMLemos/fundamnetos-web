@@ -1,0 +1,47 @@
+
+.menu{
+    background: #02023a;
+    display: flex;
+    justify-content: center;
+}
+.menu ul{
+    list-style: none;
+    display: flex;
+}
+.menu ul li a{
+    text-decoration: none;
+    color:cornsilk;
+    margin: 15px;
+}
+.menu ul li a:hover{
+    color:dimgrey
+}
+.perfil{
+    display: flex ;
+    flex-flow: row ;
+    justify-content: center;
+    align-items: center;
+
+}.menu h2{
+    text-decoration: none;
+    color:cornsilk;
+    margin: 15px;
+}.texto{
+    padding: 30px;
+    text-align: justify;
+    font-size: 15px;
+
+}.perfil img{
+    border: 3px solid #02023a;
+    border-radius: 50%;
+    height: 300px;
+
+}.icones-final a {
+    display: flex;
+    justify-content: center;
+    height: 30px;
+
+}.espaco{
+    margin-left: 50px;
+}
+
